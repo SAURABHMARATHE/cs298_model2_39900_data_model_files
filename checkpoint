@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/ubuntu/second experiment/runs/1525160965/checkpoints/model-7200"
+all_model_checkpoint_paths: "/home/ubuntu/second experiment/runs/1525160965/checkpoints/model-6800"
+all_model_checkpoint_paths: "/home/ubuntu/second experiment/runs/1525160965/checkpoints/model-6900"
+all_model_checkpoint_paths: "/home/ubuntu/second experiment/runs/1525160965/checkpoints/model-7000"
+all_model_checkpoint_paths: "/home/ubuntu/second experiment/runs/1525160965/checkpoints/model-7100"
+all_model_checkpoint_paths: "/home/ubuntu/second experiment/runs/1525160965/checkpoints/model-7200"
